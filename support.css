@@ -1,0 +1,30 @@
+.col-sm-12{
+    margin-left: 0%;
+    padding-left: 0%;
+}
+.pic1{
+    float: left;
+    margin-right: 6px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+.wrt1{
+    overflow:hidden;
+}
+.pic1 img{
+    width: 90px;
+    height: 60px;
+}
+.hrl{
+    margin-top: 5px;
+    border: 1px solid black;
+}
+
+.news a{
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+}
+.news a:hover .wrt1{
+    color:#124b65;
+}
